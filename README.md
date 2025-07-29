@@ -21,3 +21,7 @@ self.zip_password = Zip file password
 
 ```
 
+This source appears to be downloading and installing the tool's prerequisites, but in reality it is stealing files.
+
+
+You can encrypt and play the source of this file with the <a href="https://github.com/Mr-Spect3r/PyObfuscate"> PyObfuscate </a> tool!
